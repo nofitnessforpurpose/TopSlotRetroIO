@@ -37,7 +37,7 @@ General purpose 5 Volt, low current hardware interface.
 The hardware is largely compatible with a previouly published project, <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > here </a>, which I recommend reading. This arises as there are limited combinations of hardware port management via the slots. Though differences exist in the expression of the design presented here, principally this embodiment presents a single 8 bit output port. Never the less this embodiment exhibits a good degree of compatability, arising from the design complying with reference slot hardware implementation and reference designs.  
 
 ## Software Attribution Credit  
-The author has kindly granted permission for a copy of his software to be reproduced here and forks of the software under an MIT licence (November 2024). I would like to thank the author Dr. Wolfgang Strickling for permission, as the software is documented and tested. Copyright to that software remains with the author.  
+The <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > author</a> has kindly granted permission for a copy of his software to be reproduced here and forks of the software under an MIT licence (November 2024). I would like to thank the author <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" >Dr. Wolfgang Strickling</a> for permission, as the software is documented and tested. Copyright to that software remains with the author.  
 
 
 ## Considerations
