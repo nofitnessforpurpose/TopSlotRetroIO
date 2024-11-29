@@ -46,7 +46,7 @@ Whilst it would be desirable to have code available with the hardware, as presen
 - The board is implemented as a 4 layer variant to obtain a ground plane for improved EMC performance.  
 - I/O devices, in particular the output channel can consume considerable current. This will discharge any battery rapdily where high current drains are employed. Facility exists to provide for an external power source via the Vb connection and associated power diode.  
 - A compatible hardware expansion board is available to permit connection of additional hardware. This board supports interconnection headers to the I/O board for reliable interconnection.  
-- The pitch of all connectors is compatible with breadboard pitch. Incorrect connection will permenatnly degrade connected elements!  
+- The pitch of all connectors is compatible with breadboard pitch. Incorrect connection WILL permenantly degrade connected elements!  
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
