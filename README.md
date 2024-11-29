@@ -34,13 +34,13 @@ This repository holds files supporting creatino of a Top Slot 8 bit Input Ouput 
 General purpose 5 Volt, low current hardware interface.  
 
 ## Hardware Design
-The hardware is largely compatible with a previouly published project, <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > here </a>, which I recommend reading. This arises as there are limited combinations of hardware port management via the slots. Though differences exist in the expression of the design presented here, principally this embodiment presents a single 8 bit output port. Never the less this embodiment exhibits a good degree of compatability, arising from the design complying with reference slot hardware implementation and reference designs.  
+The hardware is largely compatible with a previously published project, <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > here </a>, which I recommend reading. This arises as there are limited combinations of hardware port management via the slots. Though differences exist in the expression of the design presented here, principally this embodiment presents a single 8 bit output port. Never the less this embodiment exhibits a good degree of compatability, arising from the design complying with reference slot hardware implementation and reference designs.  
 
 ## Software Attribution Credit  
 The <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > author</a> has kindly granted permission for a copy of his software to be reproduced here and forks of the software under an MIT licence (November 2024). I would like to thank the author <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" >Dr. Wolfgang Strickling</a> for permission, as the software is documented and tested. Copyright to that software remains with the author.  
 
 ## Discussion
-Whilst it would be desirable to have code available with the hardware, as presented for example via the classic Serial Comms. interface. The space claim and complexity would demand surface mount technology, which restricts potential implementation. A physcially compatible surface mount variant is planned with supporting on board code storage.
+Whilst it would be desirable to have code available with the hardware, as presented for example via the classic Serial Comms. interface. The space claim and complexity would demand surface mount technology, which restricts potential implementation. A physcially compatible surface mount variant is planned with supporting on board code storage. Fabrication of the Retro I/O implementation is more straight forward. It may be found desirable to utilise IC sockets, though space claim should be accounted for when considering compatability with any enclosure.
 
 - TI (Texas Instruments) devices were selected for the integrated circuits.  
 - The board is implemented as a 4 layer variant to obtain a ground plane for improved EMC performance.  
