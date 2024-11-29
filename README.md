@@ -39,6 +39,21 @@ The hardware is largely compatible with a previouly published project, <a target
 ## Software Attribution Credit  
 The <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > author</a> has kindly granted permission for a copy of his software to be reproduced here and forks of the software under an MIT licence (November 2024). I would like to thank the author <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" >Dr. Wolfgang Strickling</a> for permission, as the software is documented and tested. Copyright to that software remains with the author.  
 
+## Discussion
+Whilst it would be desirable to have code available with the hardware, as presented for example via the classic Serial Comms. interface. The space claim and complexity would demand surface mount technology, which restricts potential implementation. A physcially compatible surface mount variant is planned with supporting on board code storage.
+
+- TI (Texas Instruments) devices were selected for the integrated circuits.  
+- The board is implemented as a 4 layer variant to obtain a ground plane for improved EMC performance.  
+- I/O devices, in particular the output channel can consume considerable current. This will discharge any battery rapdily where high current drains are employed. Facility exists to provide for an external power source via the Vb connection and associated power diode.  
+- A compatible hardware expansion board is available to permit connection of additional hardware. This board supports interconnection headers to the I/O board for reliable interconnection.  
+- The pitch of all connectors is compatible with breadboard pitch. Incorrect connection will permenatnly degrade connected elements!  
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    
+  <img src="https://github.com/nofitnessforpurpose/TopSlotRetroIO/blob/main/images/TSRIO-03.jpg?raw=true" width="400px" alt="PSION Organiser II Top Slot Retro PCBs. Image copyright (c) 01 November 2024 nofitnessforpurpose All Rights Reserved">
+  </div>
+</div>
 
 ## Considerations
 The 3D model makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
