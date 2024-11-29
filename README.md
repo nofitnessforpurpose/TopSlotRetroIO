@@ -1,7 +1,7 @@
 # TopSlotRetroIO
 PSION Organiser II - Top Slot Retro Component 8 Bit I/O
 
-This repository holds files supporting creatino of a Top Slot 8 bit Input Ouput (I/O) adapter for the Psion Organiser 2 series of devices.
+This repository holds files supporting creation of a Top Slot 8 bit Input Ouput (I/O) adapter for the Psion Organiser 2 series of devices.
   
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
