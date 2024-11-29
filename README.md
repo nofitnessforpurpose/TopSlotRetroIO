@@ -12,9 +12,9 @@ This repository holds files supporting creation of a Top Slot 8 bit Input Ouput 
 <BR>
 
 [![Organiser](https://img.shields.io/badge/gadget-Organiser_II-blueviolet.svg?%3D&style=flat-square)]([https://en.wikipedia.org/wiki/Psion_Organiser])
-[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/TopSlotDataPack?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotDataPack/blob/main/LICENSE) 
+[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/TopSlotRetroIO?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotRetroIO/blob/main/LICENSE) 
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotDataPack/graphs/commit-activity)
-![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/TopSlotDataPack?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/TopSlotRetroIO?style=flat-square)
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 [![Static Badge](https://img.shields.io/badge/format-GERBER%20PCB-blue?style=flat-square)](https://en.wikipedia.org/wiki/Gerber_format)
 <br>  
