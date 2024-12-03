@@ -44,7 +44,7 @@ Whilst it would be desirable to have code available with the hardware, as presen
 
 - TI (Texas Instruments) devices were selected for the integrated circuits.  
 - The board is implemented as a 4 layer variant to obtain a ground plane for improved EMC performance.  
-- I/O devices, in particular the output channel can consume considerable current. This will discharge any battery rapdily where high current drains are employed. Facility exists to provide for an external power source via the Vb connection and associated power diode.  
+- I/O devices, in particular the output channel can consume considerable current. This will discharge any battery rapidly where high current drains are employed. Facility exists to provide for an external power source via the Vb connection and associated power diode.  
 - A compatible hardware expansion board is available to permit connection of additional hardware. This board supports interconnection headers to the I/O board for reliable interconnection.  
 - The pitch of all connectors is compatible with breadboard pitch. Incorrect connection WILL permenantly degrade connected elements!  
 
@@ -61,6 +61,16 @@ The PCB is currently beta and has been tested, it remains your responsiblity to 
 Assembly of PCB and case has been tested.  
 Connection or use of any material presented here could result in irreversible damage to your equipment. No responsability can be accepted for any degredation, how so ever arising. Compatability, suitablity or other are entirely your responsibility as is any effects so arising as a result ! See also notes below.
 
+Minimum implementation comprises:  
+- 4 layer PCB
+- CD4011UBE
+- 1N4148 Diode
+- 47k Ohm resistor
+- 2 x 8 way Right angle header (~8 mm engagement length)  
+- Input - SN74HC244N Octal Buffer and Pull down resistor network (RN3H 10k Ohm)  
+  or  
+- Output - SN74HC374AN Octal D-Type Flip Flop  
+The 47k Ohm pull down resistor network (RN1A) for the data lines and decoupling capacitor are recomended
 
 ## Please note:  
 All information is For Indication only.
