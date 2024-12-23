@@ -40,7 +40,9 @@ The hardware is largely compatible with a previously published project, <a targe
 The <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" > author</a> has kindly granted permission for a copy of his software to be reproduced here and forks of the software under an MIT licence (November 2024). I would like to thank the author <a target="_blank" rel="noopener noreferrer" href="https://www.strickling.net/orginter.htm" >Dr. Wolfgang Strickling</a> for permission, as the software is documented and tested. Copyright to <a target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotRetroIO/tree/main/Reference%20Software">that software</a> remains with the author.  
 
 ## Discussion
-Whilst it would be desirable to have code available with the hardware, as presented for example via the classic Serial Comms. interface. The additional space claim and complexity within the desired space claim, would demand surface mount technology restricting potential implementation. A physically compatible surface mount variant is planned with supporting on board code storage. Fabrication of the Retro I/O implementation is more straight forward. It may be found desirable to utilise IC sockets, though space claim should be accounted for when considering compatability with any enclosure.
+Whilst it would be desirable to have code available with the hardware, as presented for example via the classic Serial Comms. interface. The additional space claim and complexity within the desired space claim, would demand surface mount technology restricting potential implementation. A physically compatible surface mount variant is planned with supporting on board code storage.  
+
+Fabrication of the Retro I/O implementation is more straight forward. It may be found desirable to utilise IC sockets, though space claim should be accounted for when considering compatability with any enclosure.
 
 - TI (Texas Instruments) devices were selected for the integrated circuits.  
 - The board is implemented as a 4 layer variant to obtain a ground plane for improved EMC performance.  
