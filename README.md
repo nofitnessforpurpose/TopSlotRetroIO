@@ -71,7 +71,8 @@ Minimum implementation comprises:
 - 2 x 8 way Right angle header (~8 mm engagement length)  
 - Input - SN74HC244N Octal Buffer and Pull down resistor network (RN3H 10k Ohm)  
   or  
-- Output - SN74HC374AN Octal D-Type Flip Flop  
+- Output - SN74HC374AN Octal D-Type Flip Flop
+  
 The 47k Ohm pull down resistor network (RN1A) for the data lines and decoupling capacitor are recomended
 
 ## Please note:  
