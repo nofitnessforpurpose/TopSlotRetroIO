@@ -65,7 +65,7 @@ Connection or use of any material presented here could result in irreversible da
 
 Minimum implementation comprises:  
 - 4 layer PCB
-- CD4011UBE
+- CD4011UBE (SN74HC00N is an alternate part)
 - 1N4148 Diode
 - 47k Ohm resistor
 - 2 x 8 way Right angle header (~8 mm engagement length)  
