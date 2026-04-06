@@ -6,7 +6,7 @@ This repository holds files supporting creation of a Top Slot 8 bit Input Ouput 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/TopSlotRetroIO/blob/main/images/TSRIO-01.png?raw=true" width="400px" alt="PSION Organiser II Top Slot Retro IO Case. Image copyright (c) 01 November 2024 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/TopSlotRetroIO/blob/main/images/TSRIO-01.png" width="400px" alt="PSION Organiser II Top Slot Retro IO Case. Image copyright (c) 01 November 2024 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
@@ -53,7 +53,7 @@ Fabrication of the Retro I/O implementation is more straight forward. It may be 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/TopSlotRetroIO/blob/main/images/TSRIO-03.jpg?raw=true" width="400px" alt="PSION Organiser II Top Slot Retro PCBs. Image copyright (c) 01 November 2024 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/TopSlotRetroIO/blob/main/images/TSRIO-03.jpg" width="400px" alt="PSION Organiser II Top Slot Retro PCBs. Image copyright (c) 01 November 2024 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 
